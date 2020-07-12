@@ -1,2 +1,1 @@
-# selfRepository
-this is a my first github
+新建的第一个仓库
